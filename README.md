@@ -1,5 +1,5 @@
 > Status do Projeto: ✅ (Concluído 100%) 
-## BAIXAR SWITCH :link: [v1.0](https://github.com/JUNIORGBJ/NomeDoProjeto/releases/download/v1.2/NomeDoArquivo.zip)
+## BAIXAR :link: [v1.0](https://github.com/JUNIORGBJ/NomeDoProjeto/releases/download/v1.0/NomeDoArquivo.zip)
 
 <h1 align="center"><figure>
   <img src="Heroes_of_Hammerwatch.png">
