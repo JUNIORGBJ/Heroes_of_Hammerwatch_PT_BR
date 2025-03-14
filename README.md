@@ -1,0 +1,2 @@
+# Heroes_of_Hammerwatch_PT_BR
+Tradução Heroes_of_Hammerwatch para Nintendo Switch
