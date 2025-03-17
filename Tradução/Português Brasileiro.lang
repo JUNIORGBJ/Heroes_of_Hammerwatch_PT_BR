@@ -5,11 +5,11 @@
 	<!-- character screen -->
 	<string name="hud.character.map">MAPA</string>
 	<string name="hud.character.character">PERSONAGEM</string>
-	<string name="hud.character.stats">STATS</string>
+	<string name="hud.character.stats">ESTATÍSTICAS</string>
 	<string name="hud.character.title">%name% o %title%, nível %lvl% %class%</string>
 	<string name="hud.character.title.hardcore">%title% %name%, nível %lvl% %class%</string>
 	<string name="hud.character.effects">EFEITOS</string>
-	<string name="hud.levelup">LEVEL UP!</string>
+	<string name="hud.levelup">SUBIU DE NÍVEL!</string>
 	<string name="hud.potionrefill">REFILADO!</string>
 	<string name="hud.nokey">SEM CHAVE!</string>
 	<string name="hud.newtitle.character">Título de classe obtida: %title%</string>
@@ -695,7 +695,7 @@
 	<string name="ui_speechbubble_alpha.help">Transparência nas bolhas de diálogo.</string>
 	<string name="ui_cursor_health">ESTATUS DO CURSOR</string>
 	<string name="ui_cursor_health.help">Mostra sua vida e mana atual na mira.</string>
-	<string name="ui_minimap_alpha">MINIMAPA ALFA</string>
+	<string name="ui_minimap_alpha">MINIMAPA</string>
 	<string name="ui_minimap_alpha.help">Transparência na sobreposição do mapa.</string>
 	<string name="ui_draw_plr_names">NOME DE JOGADORES</string>
 	<string name="ui_draw_plr_names.help">Mostrao nome dos jogadores no multiplayer.</string>
@@ -712,7 +712,7 @@
 	<string name="ui_hud_mercenary.help">Mostra um indicador visual no HUD ao jogar em um personagem mercenário.</string>
 	<string name="hud.mercenary">MERCENÁRIO</string>
 
-	<string name="ui_minimap_size">MINIMAPA PEQUENO</string>
+	<string name="ui_minimap_size">MINIMAPA</string>
 	<string name="ui_minimap_size.help">Ative um pequeno mapa no canto superior direito da tela.</string>
 	<string name="ui_minimap_size.small">PEQUENO</string>
 	<string name="ui_minimap_size.medium">MÉDIO</string>
@@ -880,11 +880,11 @@
 	<string name="menu.controls.playermenu">MENU DO JOGADOR</string>
 	<string name="menu.controls.guildmenu">HALL DA GUILDA</string>
 	<string name="menu.controls.mapoverlay">MAPA DE SOBREPOSIÇÃO</string>
-	<string name="menu.controls.ping">PING</string>
+	<string name="menu.controls.ping">LATENCIA</string>
 
 	<string name="menu.mplayer">MULTIJOGADOR</string>
 	<string name="menu.mplayer.clobby">CRIAR LOBBY</string>
-	<string name="menu.mplayer.slist">SERVERLIST</string>
+	<string name="menu.mplayer.slist">SERVIDORES</string>
 	<string name="menu.options">OPÇÕES</string>
 	<string name="menu.credits">CRÉDITOS</string>
 	<string name="menu.quit">SAIR</string>
@@ -903,8 +903,8 @@
 	<string name="menu.o.ctrls">CONTROLES</string>
 
 	<string name="menu.resume">RESUMO</string>
-	<string name="menu.off">OFF</string>
-	<string name="menu.on">ON</string>
+	<string name="menu.off">DESLIGADO</string>
+	<string name="menu.on">LIGADO</string>
 	<string name="menu.none">NENHUM</string>
 	<string name="menu.all">MÁXIMO</string>
 	<string name="menu.low">MÍNIMO</string>
@@ -1217,7 +1217,7 @@
 	<string name="ui_txt.help">Exibir textos flutuantes como números de danos ou informações de coleta.</string>
 
 	<string name="menu.crumb.options.serverlist">MULTIJOGADOR > LISTA DE SERVIDORES</string>
-	<string name="menu.serverlist.server">SERVER</string>
+	<string name="menu.serverlist.server">SERVIDOR</string>
 	<string name="menu.serverlist.scenario">CENÁRIO</string>
 	<string name="menu.serverlist.players">JOGADORES</string>
 
@@ -3869,7 +3869,7 @@
 	<string name="guildhall.tab.stats">GUILDA & HERÓIS</string>
 	<string name="guildhall.tab.accomplishments">CONQUISTAS</string>
 	<string name="guildhall.tab.beastiary">BESTIÁRIO</string>
-	<string name="guildhall.tab.itemiary">ITENIARY</string>
+	<string name="guildhall.tab.itemiary">ITINERÁRIO</string>
 	<string name="guildhall.stats.guildtitle">%title% GUILD</string>
 	<string name="guildhall.stats.lifetime">VIDA</string>
 	<string name="guildhall.stats.classtitles">TÍTULOS DE CLASSE</string>
