@@ -1,5 +1,5 @@
 > Status do Projeto: ✅ (Concluído 100%) 
-## BAIXAR :link: [v1.0](https://github.com/JUNIORGBJ/NomeDoProjeto/releases/download/v1.0/NomeDoArquivo.zip)
+## BAIXAR :link: [v1.0](https://github.com/JUNIORGBJ/Heroes_of_Hammerwatch_PT_BR/releases/download/v1.0/Heroes_of_Hammerwatch_NINTENDO.SWITCH.v1.0.zip)
 
 <h1 align="center"><figure>
   <img src="Heroes_of_Hammerwatch.png">
