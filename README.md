@@ -5,30 +5,30 @@
   <img src="Heroes_of_Hammerwatch.png">
 </figure></h1>
 
-## :small_blue_diamond:📘Sobre a Tradução.
+## 📘Sobre a Tradução
 
 ⚠️ Port & Tradução ⚠️  
 🎮 Port para Nintendo Switch: Traduções GBJ  
 💻 Tradução Original (PC): Tikera
 
-## :small_blue_diamond:❓Por que este projeto?
+## ❓Por que este projeto
 
 💬 Este patch ajuda jogadores a entender melhor a história do jogo em português.  
 🛠️ Se puder colaborar com correções, revisão ou sugestões, sua ajuda será muito bem-vinda!
 
-## :small_blue_diamond:📋 Requisitos
+## 📋 Requisitos
 
 🔓 Nintendo Switch desbloqueado com ATMOSPHERE
 
-## :small_blue_diamond:📦 Instalação
+## 📦 Instalação
 
 📁 Copie a pasta ```0100D2B00BC54000``` para: ```Atmosphere\Contents```
 
-## :small_blue_diamond:🧰 Ferramentas Utilizadas
+## 🧰 Ferramentas Utilizadas
 
 💻 [Visual Studio Code](https://code.visualstudio.com)
 
-## :small_blue_diamond:💖 Apoie o Projeto
+## 💖 Apoie o Projeto
 
 Se quiser contribuir:
 [![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)| Chave PIX:      | gilson.gbj@gmail.com |[![Pix](https://i.ibb.co/1r1ghj3/Pix.png)](https://github.com/JUNIORGBJ/Fatal_Frame_Maiden_of_Black_Water_PT-BR)
